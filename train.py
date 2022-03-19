@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import random
-from tensorboardX import SummaryWriter
+from tensorboard import SummaryWriter
 import torch
 import torch.optim as optim
 import torch.nn as nn

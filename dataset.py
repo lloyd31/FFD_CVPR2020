@@ -5,7 +5,7 @@ import torch
 from torch.utils.data import DataLoader
 from torchvision import transforms
 
-DATABASE = '/home/jstay/FFD/data/'
+DATABASE = '/content/FFD_CVPR2020/testDir/'
 
 DATASETS = {
   'Real': 0,
